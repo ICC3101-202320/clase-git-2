@@ -13,3 +13,5 @@ La estructura de este documento es bla bla bla.
 # Desarrollo
 
 # Conclusión
+
+En base a lo que desarrollamos podemos concluir que bla bla bla.
