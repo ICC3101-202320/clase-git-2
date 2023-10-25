@@ -16,6 +16,9 @@ En primer lugar bla bla bvla.
 Para cumplir el objetivo, llevamos a cabo unos experimentos que bla
 bla bla. Como resultado, obtuvimos bla bla bla.
 
+Para llevar a cabo el primer experimento hicimos bla bla bla.
+Luego, para el segundo bla bla bla.
+
 # Conclusión
 
 En base a lo que desarrollamos podemos concluir que bla bla bla.
