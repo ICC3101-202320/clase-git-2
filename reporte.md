@@ -8,6 +8,8 @@ Para esto, vamos a seguir los siguientes pasos:
 2. Bla
 3. Bla
 
+La estructura de este documento es bla bla bla.
+
 # Desarrollo
 
 # Conclusión
